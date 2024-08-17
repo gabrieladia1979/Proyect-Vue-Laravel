@@ -1,2 +1,2 @@
-# Proyect-Vue---Laravel
+# Proyect-Vue-Laravel
 New Proyect with Vue and Laravel
